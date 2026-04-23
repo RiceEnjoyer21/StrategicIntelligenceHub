@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
+static/
+
+# Project Specific
+logs/*.log
+outputs/
+.DS_Store
+
+# Credentials (Safety first!)
+config.py
+.env
