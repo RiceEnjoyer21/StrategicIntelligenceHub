@@ -41,6 +41,3 @@ SIH uses a strict **Separation of Concerns**:
 - **JSON Exports:** Versioned analysis results for integration.
 - **PDF Strategy Reports:** High-quality executive briefs with integrated charts.
 - **Diagnostics:** Real-time FinOps (cost monitoring) and API health checks.
-
----
-**Deployment:** This app is ready for [Streamlit Cloud](https://streamlit.io/cloud). Just connect your GitHub repo and add your `GEMINI_API_KEY` to the Secrets manager.
