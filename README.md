@@ -1,4 +1,4 @@
-# Strategic Intelligence Hub (SIH)
+# Strategic Intelligence Hub (Cloud Computing Project)
 
 An enterprise-grade Business Intelligence platform for SMEs that combines **Deterministic Python Analytics** with **AI Strategic Reasoning**. Built using the "Prompt Firewall" architecture to ensure hallucination-free reporting.
 
